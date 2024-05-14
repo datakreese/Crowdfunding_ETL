@@ -7,7 +7,7 @@ We used pandas, numpy, and json to clean the data and that resulted in four upda
 We used the ERD file to create a crowdfunding database with a table for each of our csv files. You'll notice there are different data types for the columns in the ERD vs database. Through trial and error we realized the strings needed to be replaced with varchar and text, while a couple integers needed to be changed to float8. 
 
 # Further Analysis Potential
-Now that the information is in a database custom SQL queries could be written to analyze the data as well as identify outliers. 
+Now that the information is in a database custom SQL queries could be written to analyze the data as well as identify outliers. For example we could:
 - Find someone to inteview about a recent success story
 - If campaigns being funded by different currency types had a higher success rate
 - Analyze which category/subcategory has a high failure rate
