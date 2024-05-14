@@ -8,9 +8,15 @@ We used the ERD file to create a crowdfunding database with a table for each of 
 
 # Further Analysis Potential
 Now that the information is in a database custom SQL queries could be written to analyze the data as well as identify outliers. 
+- Find someone to inteview about a recent success story
+- If campaigns being funded by different currency types had a higher success rate
+- Analyze which category/subcategory has a high failure rate
+- Average number of backers to reveal the scaling potential for this form of funding
+- Average pledge by each backer to create incentives/reward tiers that are realistic 
 
 Information that wasn't included that could provide additional insight would be:
-- The date the goal was reached (along with the start and end date of the campaign),
-How many campaigns each contact/company has launched previously (outside of the dataset),
-Budget spent on marketing across platforms,
-Long term data for the success of an endeavor after it was initally funded.
+- The date the goal was reached (along with the start and end date of the campaign)
+- How many campaigns each contact/company has launched previously (outside of the dataset)
+- Budget spent on marketing across platforms
+- Long term data for the success of an endeavor after it was initally funded
+- A larger sample size would help us avoid skewing results of categories, subcategories with fewer campaigns
