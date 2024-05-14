@@ -10,7 +10,7 @@ We used the ERD file to create a crowdfunding database with a table for each of 
 Now that the information is in a database custom SQL queries could be written to analyze the data as well as identify outliers. 
 
 Information that wasn't included that could provide additional insight would be:
-The date the goal was reached (along with the start and end date of the campaign)
-How many campaigns each contact/company has launched previously (outside of the dataset)
-Budget spent on marketing across platforms
-Long term data for the success of an endeavor after it was initally funded
+- The date the goal was reached (along with the start and end date of the campaign),
+How many campaigns each contact/company has launched previously (outside of the dataset),
+Budget spent on marketing across platforms,
+Long term data for the success of an endeavor after it was initally funded.
